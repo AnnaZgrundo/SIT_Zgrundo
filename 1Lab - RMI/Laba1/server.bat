@@ -1,0 +1,1 @@
+start java -classpath D:\Laba1 Server
